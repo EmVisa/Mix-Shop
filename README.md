@@ -1,2 +1,2 @@
-# Mix-Shop
-Catálogo tienda Mix Shop
+# catalogo
+Catalogo online
